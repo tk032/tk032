@@ -1,27 +1,46 @@
-  ---
+ ---
+  <div align="center">
+
   # 양태균
 
-  한동대학교 기계제어공학부 졸업생입니다.
-  AI/ML과 임베디드 시스템을 결합한 스마트팩토리 분야를 목표로 하고 있습니다.
+  **한동대학교 기계제어공학부**
+
+  하드웨어부터 AI, 클라우드까지 직접 연결해본 경험을 바탕으로
+  스마트팩토리 분야에서 현장과 소프트웨어를 잇는 역할을 하고 싶습니다.
+
+  [![Gmail](https://img.shields.io/badge/tedyang032@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tedy
+  ang032@gmail.com)
+
+  </div>
 
   ---
 
   ## 기술 스택
 
-  **언어**
-  Python · C# · Java · C++ · JavaScript
+  **Languages**
+
+  [![skillicons](https://skillicons.dev/icons?i=python,cs,java,cpp,js)](https://skillicons.dev)
 
   **AI / ML**
-  YOLOv5 · LLM (Claude, GPT, Gemini)
+
+  [![skillicons](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+  ![YOLOv5](https://img.shields.io/badge/YOLOv5-00CCCC?style=flat-square)
+  ![LLM](https://img.shields.io/badge/LLM%20(Claude%2FGPT%2FGemini)-412991?style=flat-square&logoColor=white)
 
   **임베디드 / 하드웨어**
-  Arduino · Modbus TCP · ROS · INDY 10
+
+  [![skillicons](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+  ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+  ![Modbus](https://img.shields.io/badge/Modbus%20TCP-555555?style=flat-square)
 
   **백엔드 / 인프라**
-  Spring Boot · Flask · Docker · Kafka · Kubernetes
+
+  [![skillicons](https://skillicons.dev/icons?i=spring,flask,docker,kubernetes)](https://skillicons.dev)
+  ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
   **데이터베이스**
-  PostgreSQL · Supabase
+
+  [![skillicons](https://skillicons.dev/icons?i=postgres,supabase)](https://skillicons.dev)
 
   ---
 
@@ -40,8 +59,11 @@
 
   ---
 
-  ## 연락처
+  <div align="center">
 
-  tedyang032@gmail.com
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tk032&show_icons=true&theme=tokyonight&hide_borde
+  r=true)](https://github.com/tk032)
+
+  </div>
 
   ---
