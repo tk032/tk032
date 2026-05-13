@@ -8,8 +8,7 @@
   하드웨어부터 AI, 클라우드까지 직접 연결해본 경험을 바탕으로
   스마트팩토리 분야에서 현장과 소프트웨어를 잇는 역할을 하고 싶습니다.
 
-  [![Gmail](https://img.shields.io/badge/tedyang032@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tedy
-  ang032@gmail.com)
+  [![Gmail](https://img.shields.io/badge/tedyang032@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tedyang032@gmail.com)
 
   </div>
 
@@ -61,8 +60,7 @@
 
   <div align="center">
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tk032&show_icons=true&theme=tokyonight&hide_borde
-  r=true)](https://github.com/tk032)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tk032&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/tk032)
 
   </div>
 
