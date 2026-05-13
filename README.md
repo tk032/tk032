@@ -1,6 +1,5 @@
-  # 양태균
-
-  **한동대학교 기계제어공학부**
+  ---
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=tk032%20GitHub&fontSize=50&fontAlignY=40&desc=Smart+Factory+%7C+AI%2FML+%7C+Embedded&descAlignY=60&animation=fadeIn)
 
   하드웨어부터 AI, 클라우드까지 직접 연결해본 경험을 바탕으로
   스마트팩토리 분야에서 현장과 소프트웨어를 잇는 역할을 하고 싶습니다.
@@ -43,3 +42,5 @@
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+  ---
