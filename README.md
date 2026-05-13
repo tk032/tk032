@@ -1,6 +1,3 @@
----
-  <div align="center">
-
   # 양태균
 
   **한동대학교 기계제어공학부**
@@ -9,8 +6,6 @@
   스마트팩토리 분야에서 현장과 소프트웨어를 잇는 역할을 하고 싶습니다.
 
   [![Gmail](https://img.shields.io/badge/tedyang032@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tedyang032@gmail.com)
-
-  </div>
 
   ---
 
@@ -48,5 +43,3 @@
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-  ---
